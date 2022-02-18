@@ -1,0 +1,12 @@
+{
+        "name" : "MOVIECOIN",
+        "symbol" : "MOVIE",
+        "decimals" : "18",
+        "taxPercent" : "6",
+        "totalSupply" : "100000000",
+        "antiWhale" : true,
+        "whaleAmount" : "50000000",
+        "owner" : "0xc0A0aEa4f8457Caa8C47ED5B5DA410E40EFCbf3c",
+        "taxAddresses" : ["0x0e90e5ba8Eb0DD200d6105104Afbf0a7bA6b7A30", "0xa018B0fC0426Eda514AA5d1C343CAfaAa11060E0","0x74E1aed0e0603DaaC6A49A0F8ED6EE0209f3Fe6f", "0x23F7F82Eb917A49a722E970580Ee138Af5f71D74"],
+        "taxPercentages" : ["25","25","25","25"]
+}
